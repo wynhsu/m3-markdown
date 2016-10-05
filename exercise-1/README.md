@@ -6,4 +6,5 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-> [If you don't fail now and again, it's a sign you're playing it safe.] (https://www.quotetab.com/quote/by-woody-allen/if-you-dont-fail-now-and-again-its-a-sign-youre-playing-it-safe#7Jf5pSiboI22eQga.97)
+> If you don't fail now and again, it's a sign you're playing it safe.
+[Woody Allen] (https://www.quotetab.com/quote/by-woody-allen/if-you-dont-fail-now-and-again-its-a-sign-youre-playing-it-safe#7Jf5pSiboI22eQga.97)
