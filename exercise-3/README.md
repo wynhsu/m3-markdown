@@ -9,3 +9,11 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+#`git commit -m "MESSAGE"
+1. Records changes to the repository
+2. Include a log message from the user describing the changes
+3. Options
+..1. `-a` = commits all changes to track files since last commit
+..2. `-v` = include the diffs of committed items in the commit message screen
+..3. `--amend` = edit the commit message associated with the most recent commit
