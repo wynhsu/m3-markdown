@@ -10,7 +10,7 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 
 See `complete` branch for answers.
 
-#`git commit -m "MESSAGE"
+#`git commit -m "MESSAGE"`
 
 1. Records changes to the repository
 2. Include a log message from the user describing the changes
